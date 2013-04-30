@@ -1,11 +1,11 @@
 Summary:	Dynamic control of XFree86 xterm properties
 Name:		xtermcontrol
-Version:	2.10
+Version:	2.11
 Release:	1
 License:	GPL v2
 Group:		X11/Applications
 Source0:	http://www.thrysoee.dk/xtermcontrol/%{name}-%{version}.tar.gz
-# Source0-md5:	d108e24d0a8ddc1b58b37f559314eb76
+# Source0-md5:	4242f5a9e7cd14dfef1c007ffa5c7c6a
 URL:		http://www.thrysoee.dk/xtermcontrol/
 BuildRequires:	autoconf
 BuildRequires:	automake
