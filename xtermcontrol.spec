@@ -1,12 +1,12 @@
 Summary:	Dynamic control of XFree86 xterm properties
 Summary(pl.UTF-8):	Dynamiczne sterowanie właściwościami xterma z XFree86
 Name:		xtermcontrol
-Version:	3.3
+Version:	3.6
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications
 Source0:	http://thrysoee.dk/xtermcontrol/%{name}-%{version}.tar.gz
-# Source0-md5:	f29382965c7209db2fcb46786a26ad1f
+# Source0-md5:	df9fe141c2255f52363493509fe3b357
 URL:		http://thrysoee.dk/xtermcontrol/
 BuildRequires:	autoconf >= 2.50
 BuildRequires:	automake
